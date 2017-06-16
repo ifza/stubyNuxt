@@ -1,0 +1,7 @@
+{
+    "apps": {
+        "name": "nuxt-prod",
+        "cwd": "./",
+        "script": "./node_modules/nuxt/bin/nuxt-start"
+    }
+}
